@@ -1,6 +1,6 @@
 Hello 👋🏻,
 
-My name is Silvio. I'm a software developer and architect working with onstructive at Zurich, Switzerland.
+My name is Silvio. I'm a software developer and architect working in Zurich, Switzerland. I'm a co-founder of onstructive.
 
 [![GitHub](https://img.shields.io/github/followers/saw303?label=GitHub&style=social)](https://github.com/saw303)
 [![Twitter](https://img.shields.io/twitter/follow/saw303?label=Twitter&style=social)](https://twitter.com/saw303)
